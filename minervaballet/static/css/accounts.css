@@ -1,0 +1,23 @@
+body {
+    /* background-image: url(../img/shattered.png); */
+    background-color: #580000;
+  }
+  
+  .logo {
+    font-family: 'Poiret One', cursive;
+    
+  }
+  
+  .logo a {
+    color: white;
+    font-weight: bolder;
+  }
+
+  .ballet-btn {
+    background-color: #580000;
+  }
+  
+  .logo a:hover,
+  .logo a:active {
+    text-decoration: none;
+  }
